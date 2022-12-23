@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LameGames
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on all sorts of stuff 
